@@ -18,6 +18,8 @@ For examples and usage instructions head over to:
 * armv7
 * armv7-neon
 * x86
+* x86_64
+* arm64-v8a
 
 ## Installation
 * `implementation 'com.github.ArjunBhilare:ffmpeg-android-java:v1.1'`
