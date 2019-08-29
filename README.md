@@ -22,7 +22,7 @@ For examples and usage instructions head over to:
 * arm64-v8a
 
 ## Installation
-* `implementation 'com.github.ArjunBhilare:ffmpeg-android-java:v1.1'`
+* `implementation 'com.github.ArjunBhilare:ffmpeg-android-java:v1.3'`
 
 ## Sample
 ![http://i.imgur.com/cP4WhLn.gif](http://i.imgur.com/cP4WhLn.gif)
