@@ -19,6 +19,9 @@ For examples and usage instructions head over to:
 * armv7-neon
 * x86
 
+## Installation
+* `implementation 'com.github.ArjunBhilare:ffmpeg-android-java:v1.1'`
+
 ## Sample
 ![http://i.imgur.com/cP4WhLn.gif](http://i.imgur.com/cP4WhLn.gif)
 * [Download APK](https://github.com/writingminds/ffmpeg-android-java/releases/download/v0.3.2/app-debug.apk)
